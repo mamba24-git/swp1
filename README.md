@@ -1,3 +1,2 @@
-haram
-20203139
+haram    20203139
 kookmin Univ. SW
